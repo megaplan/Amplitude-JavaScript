@@ -1,14 +1,13 @@
 {
   "name": "amplitude-js",
   "author": "Amplitude <support@amplitude.com>",
-  "version": "5.7.0",
+  "version": "5.7.0-megaplan.0",
   "license": "MIT",
   "description": "Javascript library for Amplitude Analytics",
   "keywords": [
     "analytics",
     "amplitude"
   ],
-  "repository": "git://github.com/amplitude/amplitude-javascript.git",
   "main": "amplitude.js",
   "react-native": "amplitude.native.js",
   "dependencies": {

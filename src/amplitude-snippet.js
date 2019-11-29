@@ -2,7 +2,7 @@
   var amplitude = window.amplitude || {'_q':[],'_iq':{}};
   var as = document.createElement('script');
   as.type = 'text/javascript';
-  as.integrity = 'sha384-rSEVPt+HsYVwBs0EY4dB3fOcSZOW9cbAQV2CqsLFDjNbdiNyoXcGruquK0IyWxAZ';
+  as.integrity = 'sha384-MycwFWh7vYz7eN751r1KZbNytNgyxxKP2wbfathFhOvGzghh0XHisOI7UmSgCxi+';
   as.crossOrigin = 'anonymous';
   as.async = true;
   as.src = 'https://cdn.amplitude.com/libs/amplitude-5.7.0-min.gz.js';
